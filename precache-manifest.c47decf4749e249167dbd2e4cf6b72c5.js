@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce7347a9d71396e2207201b23bd0eeb7",
+    "revision": "90a0418aa6e29e99aa7db4d4cd8e9e62",
     "url": "/index.html"
   },
   {
-    "revision": "4bf23ba28501a7ae08cf",
+    "revision": "dd22d36a0f4cdf4304c1",
     "url": "/static/css/main.ae620424.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.4dc79c36.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4bf23ba28501a7ae08cf",
-    "url": "/static/js/main.1a782782.chunk.js"
+    "revision": "dd22d36a0f4cdf4304c1",
+    "url": "/static/js/main.5f26c299.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/claire_k_siroky_personal_logo.6b507234.png"
   },
   {
-    "revision": "5bf8952cc2b857809be88b15fa205296",
-    "url": "/static/media/claire_siroky_resume.5bf8952c.pdf"
+    "revision": "571273938c7f0365fd5396a0bb07ccce",
+    "url": "/static/media/claire_siroky_resume.57127393.pdf"
   },
   {
     "revision": "b452b2dd4277fab1c09f0047c0c8f6ab",
